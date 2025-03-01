@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740809179469
-  login: 1740807673697
+  logout: 1740810007217
+  login: 1740809865591
 money: '0'
 last-account-name: Ar_Hamsst
 logoutlocation:
@@ -26,5 +26,5 @@ logoutlocation:
   x: -65.2837654177908
   y: 63.0
   z: 90.66901787996332
-  yaw: 143.58737182617188
-  pitch: 11.19919490814209
+  yaw: 156.20616149902344
+  pitch: 15.931241035461426
