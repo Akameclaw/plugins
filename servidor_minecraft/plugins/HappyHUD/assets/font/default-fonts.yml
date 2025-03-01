@@ -1,4 +1,5 @@
 default:
+  # Define characters and textures.
   providers:
     spaces:
       type: "space"
@@ -180,6 +181,7 @@ default:
         - "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u2205\u2208\u0000"
         - "\u2261\u00b1\u2265\u2264\u2320\u2321\u00f7\u2248\u00b0\u2219\u0000\u221a\u207f\u00b2\u25a0\u0000"
 default-outline:
+  # Define characters and textures.
   providers:
     spaces:
       type: "space"

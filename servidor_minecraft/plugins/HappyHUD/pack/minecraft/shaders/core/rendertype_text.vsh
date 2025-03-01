@@ -47,7 +47,7 @@ void main() {
     if (id > 99 && Color.a != 0.0) {
         float yOffset = 0.0;
         float xOffset = 0.0;
-        float layer = 0.0;
+        int layer = 0;
         vec2 scale = vec2(1, 1);
         bool outlined = false;
 
