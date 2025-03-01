@@ -54,7 +54,6 @@ Pack:
       plugin and any complete or partial
       use must comply with the terms and
       conditions of Oraxen.
-  
   import:
     # Merges duplicate font files, most often default.json into the final pack.
     # This will not delete the original file, simply exclude all duplicates in favour of the merged one
