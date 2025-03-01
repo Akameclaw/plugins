@@ -1,0 +1,29 @@
+
+generate-default-files: true
+
+generate-unicode-files: true
+
+allow-shader-update: true
+
+layout:
+  default:
+    - 'default-layout'
+
+check-update: 5
+
+decimal-format: '#.##'
+
+copy-resource-pack:
+  enabled: false
+  namespaces:
+    minecraft: "Oraxen/pack/assets"
+    happyhud: "Oraxen/pack/assets"
+
+boss-bar:
+  max: 7
+  hud-position: 4
+  color: yellow
+
+disable-geyser-players: true
+
+config-version: 6
